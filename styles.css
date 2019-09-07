@@ -1,6 +1,17 @@
 html
-body {background-color: #FFDAB9;}
+body {background-color: rgb(255,218,185,0.7);}
 h1{color: #BC8F8F;}
 h1 {font-family: 'Ubuntu', sans-serif;}
-.Milestones {text-align: center;-alignment}
+.Milestones {text-align: center;-alignment }
 h2 {color: #BC8F8F;}
+h2 {font-family: 'Ubuntu', sans-serif;}
+p {font-family: 'Roboto Mono', monospace;}
+ol {font-family: 'Roboto Mono', monospace;}
+p {color: #191970;}
+ol {color: #191970;}
+ol
+   {
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+   }
